@@ -10,7 +10,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>module-name_first-module</artifactId>
-    <version>1.0-SNAPSHOT</version>  // this row is needed to add to another pom file as a dependency
+    <!--this row is needed to add to another pom file as a dependency-->
+    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
