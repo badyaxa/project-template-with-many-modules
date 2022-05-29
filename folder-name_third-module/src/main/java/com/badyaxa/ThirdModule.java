@@ -1,4 +1,4 @@
-package org.badyaxa;
+package com.badyaxa;
 
 public class ThirdModule {
     public static void main(String[] args) {
